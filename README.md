@@ -2,13 +2,11 @@
 
 **Quackgrad Mobile App** is a mobile application designed for GRE study material sharing, enabling users to efficiently access, organize, and share preparation resources. The app focuses on a clean, intuitive user experience and smooth performance across devices.
 
----
 
 # Quackgrad
 
 **Quackgrad** is a comprehensive, one-stop platform for art students navigating graduate school applications and GRE preparation. By bridging information gaps, Quackgrad empowers aspiring artists to achieve their academic goals through community-driven insights and structured learning tools.
 
----
 
 ##  Overview
 
@@ -20,7 +18,6 @@ Art graduate applications are often hindered by fragmented information and a lac
 
 …into a single, intuitive mobile experience.
 
----
 
 ##  Key Features
 
@@ -31,7 +28,6 @@ Art graduate applications are often hindered by fragmented information and a lac
 - **Portfolio Showcase:** Browse high-scoring portfolios across disciplines such as Interactive and Visual Design.  
 - **Study Supervision:** Built-in search, calendars, target school tracking, and motivational prompts to stay on schedule.  
 
----
 
 ##  User Personas
 
@@ -43,7 +39,6 @@ Quackgrad is designed around two primary user archetypes:
 2. **The Mentor (e.g., Alex):**  
    - A recently admitted graduate student who shares resources, gains community recognition, and builds a personal brand.  
 
----
 
 ##  Design & IP
 
@@ -51,7 +46,6 @@ Quackgrad is designed around two primary user archetypes:
 - **UI/UX Focus:** Emphasis on goal visualization, clean navigation, and smooth interactions.  
 - **Components:** Custom icons, progress bars, and a Dark Mode-friendly color palette following formatting guidelines.  
 
----
 
 ##  Project Structure
 
@@ -60,7 +54,6 @@ Quackgrad is designed around two primary user archetypes:
 - **Part 03: Product Details** – High-fidelity wireframes, UI components (Home, Q&A, Learning, User Profile), and interaction logic.  
 - **Part 04: Future Plan** – Scalability and feature roadmap.  
 
----
 
 ##  Future Roadmap
 
@@ -69,14 +62,12 @@ Quackgrad is designed around two primary user archetypes:
 - **Portfolio Review Module:** Integrated feedback between applicants and mentors.  
 - **Gamification:** Incentivized “Success Points” for community contributors.  
 
----
 
 ##  Developed By
 
 **Jiaqi Ye**  
 **Project Date:** December 2022  
 
----
 
 ##  License
 
