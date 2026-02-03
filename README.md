@@ -80,4 +80,4 @@ All rights are reserved. No permission is granted to:
 - Distribute  
 
 …any part of this project without explicit consent from the author.
-
+   
