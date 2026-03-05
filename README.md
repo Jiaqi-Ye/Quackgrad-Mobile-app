@@ -2,6 +2,8 @@
 
 **Quackgrad Mobile App** is a mobile application designed for GRE study material sharing, enabling users to efficiently access, organize, and share preparation resources. The app focuses on a clean, intuitive user experience and smooth performance across devices.
 
+<img width="1508" height="857" alt="image" src="https://github.com/user-attachments/assets/d8927610-08da-4afb-ac65-9e61065b7e78" />
+
 
 # Quackgrad
 
